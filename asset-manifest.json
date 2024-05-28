@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.7c33f0da.css",
+    "main.js": "/portfolio_website/static/js/main.3b684907.js",
+    "static/media/mepng.png": "/portfolio_website/static/media/mepng.8b6423c28844c1f50c9c.png",
+    "static/media/about_img.jpg": "/portfolio_website/static/media/about_img.1d314774bc5b1e1f494a.jpg",
+    "static/media/POTATO_LEAF.jpg": "/portfolio_website/static/media/POTATO_LEAF.a23f5843c6142fbb85a3.jpg",
+    "static/media/portfolio1.jpg": "/portfolio_website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio_website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/resume.pdf": "/portfolio_website/static/media/resume.75300042b532cce48966.pdf",
+    "index.html": "/portfolio_website/index.html",
+    "main.7c33f0da.css.map": "/portfolio_website/static/css/main.7c33f0da.css.map",
+    "main.3b684907.js.map": "/portfolio_website/static/js/main.3b684907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c33f0da.css",
+    "static/js/main.3b684907.js"
+  ]
+}
