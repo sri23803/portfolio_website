@@ -1,0 +1,50 @@
+.project__container{
+    width: 28%;
+    height: 30%;
+    gap: 2.5rem;
+}
+
+.project__item{
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.project__item>h3{
+    margin: 1rem auto 1rem;
+    text-align: center;
+}
+.swipe{
+    position: relative;
+    bottom: 250px;
+    left: 400px;
+    color: var(--color-light);
+}
+.swipe::before{
+    content: '< ';
+}
+
+/*============medium screen===========*/
+@media screen and (max-width: 1024){
+    .project__container{
+        width: 100%;
+        height: 60%;
+        gap: 0;
+    }
+    .swipe{
+        display: none;
+    }
+    
+}
+/*=============small screen============*/
+@media screen and (max-width: 600px){
+    .swipe{
+        display: none;
+    }
+    .project__container{
+        width: 75%;
+        height: 60%;
+    }
+}
